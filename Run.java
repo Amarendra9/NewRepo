@@ -6,6 +6,8 @@ package CorePrograms;
 		// TODO Auto-generated method stub
  System.out.println("welcome");
  System.out.println("run on server");
+ System.out.println("repository");
+ 
 	}
 
 }
